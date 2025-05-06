@@ -1,15 +1,19 @@
-.: Self-Signed Certificate Manager :.
+### Self-Signed Certificate Manager
 
-A PowerShell-based tool to self-sign the Exe-Files and manage all available self-signed certificates on Windows machines.
-It offers functions such as listing, searching and removing certificates.
+A PowerShell-based tool to self-sign the .EXE Files and manage all available Self-signed Certificates on Windows machines.
+It offers functions such as listing, searching and removing Self-signed Certificates.
 
 
 ## Features
 - Easy installation
 - User friendly interactions
+- Freeware
+- No source code included
+- Licensed under EULA (see LICENSE.txt)
 
 
-## 📝 License
+
+## License
 This software is freeware and distributed under a custom [End User License Agreement](LICENSE.txt). Source code is not shared!
 
 
@@ -21,4 +25,4 @@ To install the tool, download the latest `.exe` installer from the [Releases](ht
 
 
 
-.: Payam Avarwand	,	06.05.2025 :.
+_Payam Avarwand	,	06.05.2025_
