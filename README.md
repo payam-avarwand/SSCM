@@ -1,4 +1,4 @@
-### Self-Signed Certificate Manager
+# Self-Signed Certificate Manager
 
 A PowerShell-based tool to self-sign the .EXE Files and manage all available Self-signed Certificates on Windows machines.
 It offers functions such as listing, searching and removing Self-signed Certificates.

@@ -14,7 +14,7 @@ By installing or using this software, you agree to the following terms:
    - You may not use this software for any unlawful or harmful purpose.
 
 3. OWNERSHIP
-   All rights, title, and intellectual property related to this software remain the sole property of Payam Avarwand and Avarwand.
+   All rights, title, and intellectual property related to this software remain the sole property of Payam Avarwand.
 
 4. DISCLAIMER OF WARRANTY
    This software is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The Company shall not be held liable for any damages arising from the use or inability to use this software.
