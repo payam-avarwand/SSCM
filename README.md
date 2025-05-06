@@ -1,2 +1,1 @@
-# SSCM
-Self-Signed Certificate Manager
+.:Self-Signed Certificate Manager:.
