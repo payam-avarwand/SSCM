@@ -1,0 +1,27 @@
+END USER LICENSE AGREEMENT (EULA)
+
+This software is provided by Avarwand ("Company") free of charge for personal and commercial use.
+
+By installing or using this software, you agree to the following terms:
+
+1. LICENSE GRANT
+   You are granted a non-exclusive, non-transferable license to install and use this software on your devices.
+
+2. RESTRICTIONS
+   - You may not reverse engineer, decompile, disassemble, or modify this software.
+   - You may not redistribute, sublicense, or resell this software or any part of it.
+   - You may not claim ownership of this software or falsely represent it as your own.
+   - You may not use this software for any unlawful or harmful purpose.
+
+3. OWNERSHIP
+   All rights, title, and intellectual property related to this software remain the sole property of Payam Avarwand and Avarwand.
+
+4. DISCLAIMER OF WARRANTY
+   This software is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The Company shall not be held liable for any damages arising from the use or inability to use this software.
+
+5. TERMINATION
+   This license will terminate automatically if the user fails to comply with any of the terms outlined in this agreement. Upon termination, the user must cease all use of the software and delete all copies.
+
+---
+
+© 2025 Payam Avarwand. All rights reserved.
