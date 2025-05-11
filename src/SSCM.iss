@@ -3,7 +3,7 @@
 #define MyAppPublisher "payam-avarwand"
 #define MyAppURL "https://github.com/payam-avarwand"
 #define MyAppExeName "0.ps1"
-#define MyAppIcon "img.ico"
+#define MyAppIcon "SSCM.ico"
 #define MyVbsLauncher "SSCM_Launcher.vbs"
 
 [Setup]
@@ -21,7 +21,7 @@ DefaultGroupName={#MyAppName}
 UninstallDisplayIcon={app}\icons\{#MyAppIcon}
 OutputDir=C:\temp
 OutputBaseFilename=SSCM-{#MyAppVersion}-Setup
-SetupIconFile=C:\temp\img.ico
+SetupIconFile=C:\temp\SSCM.ico
 SolidCompression=yes
 WizardStyle=modern
 PrivilegesRequiredOverridesAllowed=dialog
@@ -41,7 +41,7 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 [Files]
 Source: "C:\temp\0.ps1"; DestDir: "{app}"; Flags: ignoreversion deleteafterinstall
 ; Icon is no longer deleted after install AND is moved to a cleaner location
-Source: "C:\temp\img.ico"; DestDir: "{app}\icons"; Flags: ignoreversion
+Source: "C:\temp\SSCM.ico"; DestDir: "{app}\icons"; Flags: ignoreversion
 
 
 [Icons]
