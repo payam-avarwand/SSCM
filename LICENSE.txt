@@ -17,10 +17,13 @@ By installing or using this software, you agree to the following terms:
    All rights, title, and intellectual property related to this software remain the sole property of Payam Avarwand.
 
 4. DISCLAIMER OF WARRANTY
-   This software is provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The Company shall not be held liable for any damages arising from the use or inability to use this software.
+   This software is provided "as is" without warranty of any kind, either express or implied, including but not
+   limited to the implied warranties of merchantability and fitness for a particular purpose. The Company shall
+   not be held liable for any damages arising from the use or inability to use this software.
 
 5. TERMINATION
-   This license will terminate automatically if the user fails to comply with any of the terms outlined in this agreement. Upon termination, the user must cease all use of the software and delete all copies.
+   This license will terminate automatically if the user fails to comply with any of the terms outlined in this
+   agreement. Upon termination, the user must cease all use of the software and delete all copies.
 
 ---
 
