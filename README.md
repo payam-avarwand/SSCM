@@ -1,13 +1,20 @@
 # Self-Signed Certificate Manager
-A PowerShell-based tool to self-sign the .EXE Files and manage all available Self-signed Certificates on Windows machines.
+This PowerShell script provides a graphical user interface (GUI) to manage self-signed certificates on Windows machines.
+It is designed to assist IT administrators or developers with common certificate-related tasks without requiring
+command-line interaction.
 It offers functions such as listing, searching and removing Self-signed Certificates.
 
 
 ## Features
+- List Certificates:
+> Displays installed self-signed certificates in a user-friendly GUI.
+- Search Functionality:
+> Allows filtering the certificate list using keywords to quickly locate specific entries.
+- Remove Certificates:
+> Enables secure deletion of selected self-signed certificates from the system.
+- Sign Executables:
+> Provides the ability to digitally sign .exe files using selected certificates via a GUI-based process.
 - Easy installation
-- User friendly interactions
-- Freeware
-- No source code included
 - Licensed under EULA (see LICENSE.txt)
 
 
@@ -20,8 +27,10 @@ This software is freeware and distributed under a custom [End User License Agree
 
 To install the tool, download the latest `.exe` installer from the [Releases](https://github.com/payam-avarwand/SSCM/releases) section.
 
-> **Note**: This installer is created using [Inno Setup Compiler] and is **self-signed**. Windows SmartScreen may warn you — this is expected for unsigned softwares.
+> **Note**: This installer is **self-signed**, still, Windows SmartScreen may warn you — this is expected for unsigned softwares.
 
 
-
-_Payam Avarwand	,	06.05.2025_
+## Author & Timeline:
+- Author: Payam Avarwand
+- Initial Release: April 21, 2025
+- Last Update: May 6, 2025
