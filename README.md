@@ -12,7 +12,7 @@ It offers functions such as listing, searching and removing Self-signed Certific
 > Allows filtering the certificate list using keywords to quickly locate specific entries.
 - Remove Certificates:
 > Enables secure deletion of selected self-signed certificates from the system.
-- Provides the possibility to digitally sign files using selected certificates via a GUI-based process using the Microsoft Product SignTool.exe
+- Provides the possibility to digitally sign files (create certificates and use them to self-sign files over a GUI-based environment) using the Microsoft Product **SignTool.exe**
 > Supported file types to sign: .exe, .dll, .ocx, .sys, .scr, .msi, .msp, .cab, .cat, .inf
 > Certificate validity period: 5 Years
 - Easy installation
@@ -34,4 +34,4 @@ To install the tool, download the latest `.exe` installer (zipped version) from 
 ## Author & Timeline:
 - Author: Payam Avarwand
 - Initial Release: April 21, 2025
-- Last Update: May 6, 2025
+- Last Update: May 30, 2025
