@@ -1,12 +1,12 @@
 #define MyAppName "SSCM"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "Avarwand"
 #define MyAppURL "https://github.com/payam-avarwand/SSCM/releases/tag/SSCM"
-#define MyAppExeName "0.ps1"
+#define MyAppExeName "1.2.0.1.ps1"
 #define MyAppIcon "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\SSCM\SSCM.ico"
 #define MyVbsLauncher "SSCM_Launcher.vbs"
 #define MyAppIconName "SSCM.ico"
-#define MyAppFileVersion "1.1.0.8"
+#define MyAppFileVersion "1.2.0.1"
 
 [Setup]
 AppId={{SSCM.com.yahoo@Avar_Payam}
@@ -21,7 +21,7 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName={autopf}\Avarwand\{#MyAppName}
 DefaultGroupName={#MyAppName}
 UninstallDisplayIcon={app}\icons\{#MyAppIconName}
-OutputDir="C:\temp"
+OutputDir="D:\Payam Avarwand\My Repos\GitHub\Avarwand\SSCM\installer"
 OutputBaseFilename={#MyAppName}-{#MyAppVersion}-Setup
 SetupIconFile={#MyAppIcon}
 SolidCompression=yes
@@ -39,7 +39,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\SSCM\0.ps1"; DestDir: "{app}\icons"; Flags: ignoreversion
+Source: "D:\Payam Avarwand\My Repos\GitHub\Word-Books\Code\SSCM\1.2.0.1.ps1"; DestDir: "{app}\icons"; Flags: ignoreversion
 Source: "{#MyAppIcon}"; DestDir: "{app}\icons"; Flags: ignoreversion
 
 [Icons]

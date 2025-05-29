@@ -14,6 +14,7 @@ It offers functions such as listing, searching and removing Self-signed Certific
 > Enables secure deletion of selected self-signed certificates from the system.
 - Provides the possibility to digitally sign files using selected certificates via a GUI-based process using the Microsoft Product SignTool.exe
 > Supported file types to sign: .exe, .dll, .ocx, .sys, .scr, .msi, .msp, .cab, .cat, .inf
+> Certificate validity period: 5 Years
 - Easy installation
 - Licensed under EULA (see LICENSE.txt)
 
